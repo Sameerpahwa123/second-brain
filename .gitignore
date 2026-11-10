@@ -1,0 +1,8 @@
+kb.sqlite*
+.env
+secrets/
+logs/
+output/
+aspects/
+.venv/
+__pycache__/
